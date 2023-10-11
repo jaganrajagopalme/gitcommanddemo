@@ -1,1 +1,3 @@
-for testing of rebase file 
+for testing of rebase file
+
+line 1
